@@ -211,10 +211,9 @@ span::before {
   margin-top: 20px;
   display: inline-block;
 }
-
-.services-list div:hover {
-  background: #141c18;
-  transform: translateY(-10px);
+.cont{
+   border: #1de681 solid 2px;
+}
 }
 .icon {
   width: 100%;
